@@ -322,11 +322,12 @@ In case you want to checkout to edit the source code of Mojarra with full IDE su
 
 Pull requests are accepted on following branches:
 
-- [`master`][28] (4.0.x)
+- [`master`][28] (Next)
+- [`4.0`][31] (4.0.x)
 - [`3.0`][29] (3.0.x)
 - [`2.3`][30] (2.3.x)
 
-Note that it's okay to send a PR to the master branch, but this one is for Faces.next and not the current 2.3.x or 3.0.x version.
+Note that it's okay to send a PR to the master branch, but this one is for Faces.Next and not the current 2.3.x, 3.0.x or 4.0.x version.
 
 ## Releasing
 
